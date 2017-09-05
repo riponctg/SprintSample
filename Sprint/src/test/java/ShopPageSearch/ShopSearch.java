@@ -13,6 +13,11 @@ public class ShopSearch extends CommonAPI {
     public void search(){
         Shop shop = PageFactory.initElements(driver, Shop.class);
         shop.searchShop();
+<<<<<<< HEAD
         driver.navigate().back();
+=======
+        System.out.println("This is Sprint Shop Page");
+
+>>>>>>> c036944f7228877664da12497a39cae57e9e8464
     }
 }
