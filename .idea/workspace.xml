@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0e90fc47-6601-47ae-bcf1-a3b26fd29877" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java" afterPath="$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java" afterPath="$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -68,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -988,7 +986,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504548000941</updated>
-      <workItem from="1504548005733" duration="8106000" />
+      <workItem from="1504548005733" duration="9368000" />
     </task>
     <servers />
   </component>
@@ -1010,7 +1008,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8106000" />
+    <option name="totallyTimeSpent" value="9368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="56" width="1440" height="826" extended-state="0" />
@@ -1129,7 +1127,7 @@
     <entry file="file://$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
