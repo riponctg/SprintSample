@@ -4,6 +4,7 @@
     <list default="true" id="0e90fc47-6601-47ae-bcf1-a3b26fd29877" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java" afterPath="$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java" afterPath="$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sprint.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sprint.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -89,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShopSearch.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ShopSearch.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,10 +136,10 @@
         <option value="$PROJECT_DIR$/Sprint/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Sprint/src/main/java/ShopPage/shop.java" />
-        <option value="$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Sprint/src/test/resources/SprintTestRunner.xml" />
         <option value="$PROJECT_DIR$/Sprint/src/main/java/sprintHome/sprint.java" />
+        <option value="$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java" />
       </list>
     </option>
   </component>
@@ -267,6 +268,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ShopPageSearch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -983,7 +988,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504548000941</updated>
-      <workItem from="1504548005733" duration="7823000" />
+      <workItem from="1504548005733" duration="8106000" />
     </task>
     <servers />
   </component>
@@ -1005,7 +1010,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7823000" />
+    <option name="totallyTimeSpent" value="8106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="108" y="56" width="1440" height="826" extended-state="0" />
@@ -1089,16 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/Base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1135,6 +1130,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sprint/src/test/java/ShopPageSearch/ShopSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

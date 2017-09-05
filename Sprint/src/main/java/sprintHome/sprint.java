@@ -10,7 +10,7 @@ public class sprint extends CommonAPI {
     @Test
     public void navigateToHome(){
         System.out.println(driver.getCurrentUrl());
-        driver.navigate().back();
+
 
     }
 }
